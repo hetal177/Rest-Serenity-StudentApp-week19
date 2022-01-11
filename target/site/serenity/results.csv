@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","This test will get the information of all the student","SUCCESS","2022-01-11T21:13:53.854Z[Europe/London]","0.0","6.61"
+"First serenity test","Thisis a pending","PENDING","2022-01-11T21:14:00.716Z[Europe/London]","0.0","0.03"
+"First serenity test","This is manual","PENDING","2022-01-11T21:14:00.834Z[Europe/London]","0.0","0.01"
+"First serenity test","This is compromised","ERROR","2022-01-11T21:14:00.853Z[Europe/London]","0.0","0.09"
+"First serenity test","This is a test with error","ERROR","2022-01-11T21:14:00.968Z[Europe/London]","0.0","0.01"
+"First serenity test","Get all students","SUCCESS","2022-01-11T21:14:00.998Z[Europe/London]","0.0","0.32"
+"First serenity test","Thisis skipped","IGNORED","2022-01-11T21:14:01.321Z[Europe/London]","0.0","0.03"

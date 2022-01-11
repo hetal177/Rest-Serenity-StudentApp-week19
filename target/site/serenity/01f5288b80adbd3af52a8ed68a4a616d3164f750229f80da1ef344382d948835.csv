@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","This test will get the information of all the student","SUCCESS","2022-01-11T21:13:53.854Z[Europe/London]","0.0","6.61"
+"First serenity test","Get all students","SUCCESS","2022-01-11T21:14:00.998Z[Europe/London]","0.0","0.32"

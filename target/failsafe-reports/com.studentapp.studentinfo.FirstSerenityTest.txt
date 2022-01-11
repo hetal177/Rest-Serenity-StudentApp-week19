@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.studentapp.studentinfo.FirstSerenityTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 2, Skipped: 3, Time elapsed: 12.039 sec <<< FAILURE! - in com.studentapp.studentinfo.FirstSerenityTest
+thisIsCompromised(com.studentapp.studentinfo.FirstSerenityTest)  Time elapsed: 0.004 sec  <<< ERROR!
+java.io.FileNotFoundException: E:\file.txt (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileReader.<init>(FileReader.java:72)
+	at com.studentapp.studentinfo.FirstSerenityTest.thisIsCompromised(FirstSerenityTest.java:57)
+
+thisIsATestWithError(com.studentapp.studentinfo.FirstSerenityTest)  Time elapsed: 0.006 sec  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at com.studentapp.studentinfo.FirstSerenityTest.thisIsATestWithError(FirstSerenityTest.java:45)
+

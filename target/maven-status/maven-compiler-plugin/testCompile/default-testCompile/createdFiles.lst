@@ -1,0 +1,5 @@
+com\studentapp\studentinfo\FirstSerenityTest.class
+com\studentapp\TestBase\TestBase.class
+com\studentapp\AppTest.class
+com\studentapp\studentinfo\StudentCURDTestWithSteps.class
+com\studentapp\studentinfo\TagsTest.class
